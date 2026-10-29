@@ -26,10 +26,10 @@ const Navbar = () => {
           <Image
             src="/logo.png"
             alt="Amma Interiors - Interior Architecture"
-            width={650}
-            height={400}
+            width={400}
+            height={200}
             priority
-            className="h-40 w-auto object-contain"
+            className="h-30 w-auto object-contain"
           />
         </Link>
 
